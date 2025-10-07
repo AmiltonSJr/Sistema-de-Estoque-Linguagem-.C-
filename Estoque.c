@@ -25,7 +25,7 @@ int main() {
     int opcao;
 
     do {
-        printf("\n=== Sistema de Estoque CLOUDTECH ===\n");
+        printf("\n=== Sistema de Estoque INFOTECH ===\n");
         printf("1 - Inserir Produto\n");
         printf("2 - Alterar Produto\n");
         printf("3 - Remover Produto\n");
